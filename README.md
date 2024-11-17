@@ -1,3 +1,3 @@
 # rprs
 
-Model trainig scripts for citeSeer
+Model training/helper scripts for citeSeer
