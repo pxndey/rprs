@@ -1,3 +1,8 @@
 *.pkl
 *.json
 *.gpickle
+*.txt
+*.csv
+*.npy
+*.model
+*.jsonl
