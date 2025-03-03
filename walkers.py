@@ -78,8 +78,6 @@ def generate_and_save_walks(G, num_walks, walk_length, output_file):
                 
                 writer.writerow(walk)
 
-# Example usage
-# generate_and_save_walks(G, num_walks=10, walk_length=30, output_file="random_walks.csv")
 
 if __name__ == '__main__':
     start_time = time.time()
